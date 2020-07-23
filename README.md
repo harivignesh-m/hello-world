@@ -1,2 +1,4 @@
 # hello-world
-Hey there! I'm using github now
+Hey there! My name is Harivignesh.   
+I'm a mechanical engineering graduate interested in programming.  
+I'm currently learning python.
